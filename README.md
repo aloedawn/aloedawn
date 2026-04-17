@@ -11,6 +11,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,python,swift,cpp&theme=dark" /> 
-  / 
-  <img src="https://skillicons.dev/icons?i=chatgpt,md,bot,apple" />
 </p>
