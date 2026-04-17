@@ -1,11 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=aloedawn&fontSize=50&fontAlignY=40)
-  ## 👋 Hello World!
-- 🏫 Hanyang University - Computer Software Engineering (2020-)
-- 🔥 Kotlin / Python / C++ ...
-- 🔎 Computer Vision / AI 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Developer;AI+Enthusiast;Learner" alt="Typing SVG" />
+</div>
 
-## 📊 GitHub Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aloedawn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloedawn&layout=compact&langs_count=7&theme=radical"/>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+- 🎓 **Hanyang University** | Computer Software Engineering (2020-2026)
+- 🍎 **Apple Developer Academy @ POSTECH** | (2026 - Present)
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,python,swift,cpp&theme=dark" /> 
+  / 
+  <img src="https://skillicons.dev/icons?i=chatgpt,md,bot,apple" />
 </p>
