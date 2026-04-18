@@ -4,8 +4,8 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-- 🎓 **Hanyang University** | Computer Software Engineering (2020-2026)
-- 🍎 **Apple Developer Academy @ POSTECH** | (2026 - Present)
+- 🎓 **Hanyang University** | B.S. in Computer Science, College of Engineering (2020–2026)
+- 🍎 **Apple Developer Academy @ POSTECH** | 5th Learner (2026–Present)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
